@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Researcher and auditor #<a href='#'>University of Bologna</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -14,9 +14,11 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am a MSc student, researcher and TA at University of Bologna, working on adversarial attacks and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school and research  scurrently attending a MSc in Artificial Intelligence (also at UniBo). 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
