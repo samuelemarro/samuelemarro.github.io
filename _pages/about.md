@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a MSc student, researcher and TA at University of Bologna, working on adversarial attacks and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school.
 
-I also develop smart contracts for both research and industry purposes, and perform security audits of EVM and EVM-like smart contracts.
+Additionally, I develop smart contracts for both research and industry purposes, and perform security audits of EVM and EVM-like smart contracts.
 
 My research interests include adversarial attacks against both ML models and smart contracts, alternative training algorithms and inference-time optimization techniques.
 
