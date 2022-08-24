@@ -12,7 +12,7 @@ footer_text: #
 keywords: adversarial-attack, artificial-intelligence, machine-learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.svg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://samuelemarro.it # the base hostname & protocol for your site
 baseurl: #/ # the subpath of your site, e.g. /blog/
