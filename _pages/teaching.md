@@ -14,3 +14,5 @@ This page will host the links to the various notebooks for "Introduzione all'App
 [0 - Python Cheatsheet](https://colab.research.google.com/drive/1Sbuq9DJgbl4xr-cgQX-h9MRZhliQtnco?usp=sharing)
 
 [1 - Elaborazione Immagini (Image Processing)](https://colab.research.google.com/drive/18vyS8NhhpTDO9SYOTXMJyXZ8jJGlbv9Y?usp=sharing)
+
+[2 - Computer Vision](https://colab.research.google.com/drive/1n9Vmr6ZOzBgSxFvaua09k0ve1oozZ8wL?usp=sharing)
