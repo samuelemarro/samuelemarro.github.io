@@ -22,3 +22,5 @@ Best score for the "Instagram Filter" exercise: 52.59
 [2- Computer Vision](https://colab.research.google.com/drive/1n9Vmr6ZOzBgSxFvaua09k0ve1oozZ8wL?usp=sharing)
 
 [3 - Scikit-Learn](https://colab.research.google.com/drive/1-5EU-Oj2PQJeXqCgEeqghspHrBvg3SdU?usp=sharing)
+
+[4 - Introduzione a Keras (Intro to Keras)](https://colab.research.google.com/drive/1HH__DcgV_KKffWjMEIKRdDsPXtQ0wtGT?usp=sharing)
