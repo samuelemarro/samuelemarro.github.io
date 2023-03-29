@@ -28,3 +28,7 @@ Best score for the "Instagram Filter" exercise: 52.59
 [5 - Transfer Learning e Autoencoders (Transfer Learning and Autoencoders)](https://colab.research.google.com/drive/1yQHE78WOdorcsK4tPHk8dmWc4NsJaz_f?usp=sharing)
 
 [6 - LSTMs](https://colab.research.google.com/drive/1lGaZv-IzZU_9afRoRfOzEzIsSi5Eg-Hu?usp=sharing)
+
+# Special Seminary - AlgoUnibo
+
+[Notebook](https://colab.research.google.com/drive/1vU_PEY3urCwfkIyZPdNfGs2rp9s-dEpU?usp=sharing)
