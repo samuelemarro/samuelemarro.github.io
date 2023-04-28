@@ -32,13 +32,21 @@
 - title: Publications
   type: time_table
   contents:
-    - title: <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>40th International Conference on Machine Learning (ICML 2023)</i>
+    - title: Computational Asymmetries in Robust Classification
+      description: |-
+        <b>Samuele Marro</b>, Michele Lombardi. <i>40th International Conference on Machine Learning (ICML 2023)</i>.
       year: 2023
-    - title: Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, Fabio Merizzi. Image Embedding for Denoising Generative Models. <i>Under review at Springer Artificial Intelligence Review.</i>
+    - title: Image Embedding for Denoising Generative Models
+      description: |-
+        Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, Fabio Merizzi. <i>Under review at Springer Artificial Intelligence Review</i>.
       year: 2022
-    - title: <b>Samuele Marro</b>, Luca Donno. EIP-5375. <i>Ethereum Foundation</i>.
+    - title: EIP-5375
+      description: |-
+        <b>Samuele Marro</b>, Luca Donno. <i>Ethereum Foundation</i>.
       year: 2022
-    - title: '<b>Samuele Marro</b>, Luca Donno. Green NFTs: A Study on the Environmental Impact of Cryptoart Technologies. <a href="https://arxiv.org/abs/2202.00003" target="_blank">arxiv:2202.00003</a>'
+    - title: "Green NFTs: A Study on the Environmental Impact of Cryptoart Technologies"
+      description: |-
+        '<b>Samuele Marro</b>, Luca Donno. <a href="https://arxiv.org/abs/2202.00003" target="_blank">arxiv:2202.00003</a>'
       year: 2021
 
 - title: Experience
