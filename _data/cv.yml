@@ -32,21 +32,17 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Computational Asymmetries in Robust Classification
-      description: |-
-        <b>Samuele Marro</b>, Michele Lombardi. <i>40th International Conference on Machine Learning (ICML 2023)</i>.
+    - items:
+        - <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>40th International Conference on Machine Learning (ICML 2023)</i>
       year: 2023
-    - title: Image Embedding for Denoising Generative Models
-      description: |-
-        Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, Fabio Merizzi. <i>Under review at Springer Artificial Intelligence Review</i>.
+    - items:
+        - Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, Fabio Merizzi. Image Embedding for Denoising Generative Models. <i>Under review at Springer Artificial Intelligence Review.</i>
       year: 2022
-    - title: EIP-5375
-      description: |-
-        <b>Samuele Marro</b>, Luca Donno. <i>Ethereum Foundation</i>.
+    - items:
+        - <b>Samuele Marro</b>, Luca Donno. EIP-5375. <i>Ethereum Foundation</i>.
       year: 2022
-    - title: "Green NFTs: A Study on the Environmental Impact of Cryptoart Technologies"
-      description: |-
-        '<b>Samuele Marro</b>, Luca Donno. <a href="https://arxiv.org/abs/2202.00003" target="_blank">arxiv:2202.00003</a>'
+    - items:
+        - '<b>Samuele Marro</b>, Luca Donno. Green NFTs: A Study on the Environmental Impact of Cryptoart Technologies. <a href="https://arxiv.org/abs/2202.00003" target="_blank">arxiv:2202.00003</a>'
       year: 2021
 
 - title: Experience
@@ -77,21 +73,21 @@
         - Developed a <b>Tensorflow</b> LSTM implementation compatible with <b>IBM CPLEX</b> optimization algorithms.
         - Introduced tools to mitigate numerical issues with non-linear components of LSTMs.
         - Rewrote Facebook's FBProphet time series model in <b>Tensorflow</b>.
-    - title: Gitcoin Round 13 Hackathon, <i>6k USD</u> bounty
+    - title: Gitcoin Round 13 Hackathon, <i>6k USD</i> bounty
       year: 2022
       description:
         - Wrote four smart contracts in <b>Soliditypp</b> for the Vite blockchain.
         - Wrote unit tests for such contracts using <b>Vuilder</b> and <b>Javascript</b>.
-    - title: GreenNFT Hackathon, <i>3k USD</u> bounty
+    - title: GreenNFT Hackathon, <i>3k USD</i> bounty
       year: 2021
       description:
         - Created a model to estimate the environmental impact of individual transactions on Ethereum.
         - Identified techniques to reduce a user's individual impact by 70% with the help of <b>Python</b> scripts.
         - Developed Green NFT Helper, a <b>JavaScript</b> + <b>Svelte.js</b> website to help users to reduce their emissions.
-    - title: Gitcoin Round 9 Hackathon, <i>1k USD</u> bounty
+    - title: Gitcoin Round 9 Hackathon, <i>1k USD</i> bounty
       year: 2021
       description: Developed a Chrome extension in <b>JavaScript</b> to search on IPFS directly from the omnibox.
-    - title: Ancalau Award, <i>3k EUR</u> award
+    - title: Ancalau Award, <i>3k EUR</i> award
       year: 2018 - 2019
       description:
         - Trained in <b>Python</b> + <b>Tensorflow</b> a <b>CNN</b> to identify illegal dumping locations from aerial data.
@@ -150,4 +146,4 @@
 # - title: Other Interests
 #  type: list
 #   contents:
-#    - <i>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#    - <i>Hobbies:</i> Hobby 1, Hobby 2, etc.
