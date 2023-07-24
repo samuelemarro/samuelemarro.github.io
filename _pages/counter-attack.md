@@ -6,7 +6,7 @@ description: Links and resources for "Computational Asymmetries in Robust Classi
 nav: false
 ---
 
-For ICML 2023 attendants: you can also find me at Poster Session 4 on Thursday!
+For ICML 2023 attendants: you can also find me at Poster Session 4 on Wednesday!
 
 ## TL; DR
 
