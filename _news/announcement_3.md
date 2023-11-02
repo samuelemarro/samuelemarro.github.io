@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-7-13 15:59:00-0400
+date: 2023-11-1 15:59:00-0400
 inline: true
 ---
 
-I have successfully completed my Bachelor of Science in Computer Science with 110 cum laude!
+I have been awarded a 12k EUR research grant by University of Bologna on robustness!
