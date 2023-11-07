@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Samuele Marro
-    - name: Date of Birth
-      value: 9th June 2000
     - name: Languages
       value: Italian (native), English (fluent), French (beginner)
 
@@ -17,7 +15,7 @@
       description:
         - "Current GPA: <b>29.70/30</b>, top of the class (170 students)"
     - title: STEM Excellency Degree
-      institution: Superior College of Bologna
+      institution: Superior College of Bologna (Institute of Superior Studies)
       year: 2019 - 2024
       description:
         - 7 STEM students are admitted each year and are provided with a personal tutor, exemption from tuition fees, free accommodation and an annual scholarship throughout their Bachelor's and Master's degrees.
@@ -48,9 +46,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Predoctoral Research Fellow
+      institution: University of Bologna
+      year: 2023 - Today
+      description:
+        - Department fellowship on adversarial robustness under prof. Michele Lombardi.
     - title: Student Researcher
       institution: University of Bologna
-      year: 2019 - Present
+      year: 2019 - 2023
       description:
         - Developed, under prof. Michele Lombardi and Michela Milano, an <b>adversarial defense</b> (implemented in <b>Python</b> + <b>PyTorch</b>) which is robust against white-box attacks.
         - Wrote a <b>Julia</b> interface to formally verify the effectiveness of the defense using <b>MIPVerify.jl</b> + <b>Gurobi</b>.
