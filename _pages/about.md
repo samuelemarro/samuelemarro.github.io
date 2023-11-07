@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an MSc student and research fellow at University of Bologna, working on adversarial robustness and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school.
+I am an MSc student and predoctoral research fellow at University of Bologna, working on adversarial robustness and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school.
 
 My research interests include theoretical properties of adversarial attacks, alternative training algorithms and inference-time optimization techniques.
 
