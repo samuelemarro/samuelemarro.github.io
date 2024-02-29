@@ -13,7 +13,7 @@
       institution: University of Bologna
       year: 2022 - 2024
       description:
-        - "Current GPA: <b>29.70/30</b>, top of the class (170 students)"
+        - "Current GPA: <b>29.75/30</b>, top of the class (170 students)"
     - title: STEM Excellency Degree
       institution: Superior College of Bologna (Institute of Superior Studies)
       year: 2019 - 2024
@@ -51,6 +51,13 @@
       year: 2023 - Today
       description:
         - Department fellowship on adversarial robustness under prof. Michele Lombardi.
+    - title: Visitor
+      institution: Oxford University
+      year: 2024
+      description: 
+        - Research visit to the Department of Computer Science to conduct research on the Theory of Mind of
+LLMs under Dr. Emanuele La Malfa and Prof. <b>Michael Wooldridge</b>.
+
     - title: Student Researcher
       institution: University of Bologna
       year: 2019 - 2023
