@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Protocol Sketch For LLM Communication
-date: 2024-04-07 09:12:00-0400
+date: 2024-04-07 08:12:00+0100
 description: So, how do we make LLMs talk to each other?
 tags: #ai
 categories: ai
