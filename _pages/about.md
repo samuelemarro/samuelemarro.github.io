@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an MSc student and predoctoral research fellow at University of Bologna, working on adversarial robustness and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school.
+I am an MSc student and predoctoral research fellow at University of Bologna, working on adversarial robustness and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school. From October 2024, I'll join Oxford University's AIMS CDT for a 4-year PhD on memory in LLMs, funded by Microsoft.
 
-My research interests include theoretical properties of adversarial attacks, alternative training algorithms and inference-time optimization techniques.
+My research interests include the role of autoregressivity in ML, as well as LLM interoperability and robustness.
 
 Additionally, I develop smart contracts for both research and industry purposes, and perform security audits of EVM and EVM-like smart contracts.
 
