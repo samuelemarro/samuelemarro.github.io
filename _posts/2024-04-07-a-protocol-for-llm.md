@@ -96,8 +96,10 @@ In this case, Alice and Bob could just use the routines written by the LLMs, whi
 
 In order to ensure that Alice and Bob are both sure that they're using the same protocol, we might add an identifier for the protocol, plus an ACK/NAK token to programmatically check if the other party understood which protocol they're using:
 
+```
 Alice: ALICE-BOB-STOCK-PRICING { "priceQuery" : "MSFT" }
 Bob: ACK { "price" : 425.52 }
+```
 
 Congratulations, we've just reinvented APIs. However, this approach has several benefits over a regular API:
 - If either Alice or Bob need to change the protocol, they can just negotiate a new one
