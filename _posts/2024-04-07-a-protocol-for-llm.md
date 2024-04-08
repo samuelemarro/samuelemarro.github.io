@@ -32,7 +32,7 @@ Specifically, what I'm interested in is a simple protocol to allow communication
 
 We're going to use a very simple task: querying the price of a stock. There are two machines, Alice and Bob, each having their own databases, with their own schemas and their own conventions:
 
-[!](https://i.imgur.com/zuFelp4.png)
+<img src="https://i.imgur.com/zuFelp4.png" />
 
 Alice wants to query Bob to obtain the current price of MSFT, which at the time of writing sits at 425.52 USD.
 
@@ -53,7 +53,7 @@ But it's 2024, and LLMs are hot. Since LLMs can solve everything, let's just bui
 
 Specifically, we add two LLMs that can interface with Alice's and Bob's databases, respectively. Both LLMs are capable of using natural language to communicate with each other:
 
-[!](https://i.imgur.com/rc26z8X.png)
+<img src="https://i.imgur.com/rc26z8X.png" />
 
 This is as flexible as it gets: if Bob's database changes schema, Bob only needs to be informed of the new schema, while from the point of view of Alice nothing changed. If Alice wants to query the price-to-earnings ratio, it's just a matter of changing the question. If Bob's server goes down, Alice can start querying another natural language-friendly machine without any major disruptions.
 
@@ -105,7 +105,7 @@ Congratulations, we've just reinvented APIs. However, this approach has several 
 
 In general, the cool thing about this approach is that natural language is a universally supported default for communication. If there's a more efficient protocol, that's great! But if there are issues or unexpected changes, natural language is still an option.
 
-[!](https://i.imgur.com/b2wfxqF.png)
+<img src="https://i.imgur.com/b2wfxqF.png" />
 
 # Level 3: Scaling to a Network
 
@@ -141,7 +141,7 @@ Bob: ACK { "price" : 425.52 }
 
 All of this happens without the intervention of the LLMs: if, however, there are any issues with the communication, the LLMs can simply intervene. For example, in case Bob doesn't have a routine to handle the protocol, it can just send a NAK, which makes Alice send the corresponding protocol (which is then read by Bob's LLM). Similarly, if for some reason the routine fails, the LLM can take over. As a flowchart:
 
-[!](https://i.imgur.com/fNvqXCD.png)
+<img src="https://i.imgur.com/fNvqXCD.png" />
 
 # Conclusion
 
