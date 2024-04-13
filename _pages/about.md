@@ -21,6 +21,4 @@ I am an MSc student and predoctoral research fellow at University of Bologna, wo
 
 My research interests include the role of autoregressivity in ML, as well as LLM interoperability and robustness.
 
-Additionally, I develop smart contracts for both research and industry purposes, and perform security audits of EVM and EVM-like smart contracts.
-
 This site also hosts a selection of [my projects](/projects/), along with [some extra writings](/blog/).

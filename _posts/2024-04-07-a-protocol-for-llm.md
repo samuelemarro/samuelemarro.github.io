@@ -55,7 +55,7 @@ Specifically, we add two LLMs that can interface with Alice's and Bob's database
 
 <img src="https://i.imgur.com/rc26z8X.png" />
 
-This is as flexible as it gets: if Bob's database changes schema, Bob only needs to be informed of the new schema, while from the point of view of Alice nothing changed. If Alice wants to query the price-to-earnings ratio, it's just a matter of changing the question. If Bob's server goes down, Alice can start querying another natural language-friendly machine without any major disruptions.
+This is as flexible as it gets: if Bob's database changes schema, Bob's LLM only needs to be informed of the new schema, while from the point of view of Alice nothing changed. If Alice wants to query the price-to-earnings ratio, it's just a matter of changing the question. If Bob's server goes down, Alice can start querying another natural language-friendly machine without any major disruptions.
 
 At the same time, however, we are using two language models to send a floating point value between two databases. This is the computational equivalent of shooting a fly with a bazooka.
 

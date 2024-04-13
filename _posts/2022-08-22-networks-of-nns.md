@@ -63,7 +63,7 @@ The process of writing an API is similar:
 - Write the code to convert your program's internal representation of information into something standardized
 - Write the code to provide data
 
-APIs are the basic tools of machine-to-machine communication, and yet both exposing information and retrieving it involve considerable work. Ontologies suffer from the same problem, with the only difference being that you're exposing XML documents instead.
+APIs are the basic tools of machine-to-machine communication, and yet both exposing information and retrieving it involve considerable work. Ontologies suffer from the same problem, with the only difference being that you're exposing XML/JSON documents instead.
 
 This type of work can be well achievable by motivated programmers, but can we say the same about regular folks? Would we be able to convince a rural doctor to provide medical statistics (e.g. to track the spread of diseases) _and_ implement a standardized API _and_ input the data in a standardized format?
 
@@ -111,8 +111,9 @@ Of course, there are several obstacles to an actual implementation of this syste
 - ML models struggle to understand if data is reliable, and can easily be misled (see: the entirety of the adversarial ML field)
 - Natural language models are still way too big (or, conversely, hardware is not powerful enough yet) to conceive running a good model on consumer hardware
 - There's no guarantee that people would agree on some form of payment protocol
+
 However, I believe that, with enough dedicated effort, it could be achieved without major leaps in AI or hardware technology.
 
 # Conclusion
 
-[Memex](https://en.wikipedia.org/wiki/Memex), [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) and the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) all shared the same objective: simplifying access to information. However, AI-driven information is becoming more expensive to produce, and at the same time more powerful in the hands of those that have it. Even if Neural Crawlers and the Network of Neural Networks don't turn out to be the solution, democratizing information is a key challenge for the 21st century, one which I hope will be solved individuals motivated by the same ideals that moved the founders of the Internet.
+[Memex](https://en.wikipedia.org/wiki/Memex), [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) and the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) all shared the same objective: simplifying access to information. However, AI-driven information is becoming more expensive to produce, and at the same time more powerful in the hands of those who have it. Even if Neural Crawlers and the Network of Neural Networks don't turn out to be the solution, democratizing information is a key challenge for the 21st century, one which I hope will be solved by individuals motivated by the same ideals that moved the founders of the Internet.
