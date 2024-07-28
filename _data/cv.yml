@@ -38,7 +38,7 @@
   contents:
     - items:
         - Emanuele La Malfa, Christoph Weinhuber, Orazio Torre, Fangru Lin, <b>Samuele Marro</b>, Anthony Cohn, Nigel Shadbolt, Michael Wooldridge. <a href="https://arxiv.org/abs/2401.09074" target="_blank">arXiv:2401.09074</a>
-        year: 2024
+      year: 2024
     - items:
         - <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>40th International Conference on Machine Learning (ICML 2023)</i>
       year: 2023
