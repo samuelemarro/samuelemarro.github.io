@@ -9,6 +9,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: DPhil in Autonomous Intelligent Machines and Systems
+      institution: University of Oxford
+      year: 2024 - Present
+      description:
+        - DPhil on the fundamental properties of generative models and communication protocols for LLMs.
+        - Funded by a 250k USD studentship from Microsoft Research.
     - title: MSc Artificial Intelligence
       institution: University of Bologna
       year: 2022 - 2024
@@ -49,12 +55,6 @@
 - title: Experience
   type: time_table
   contents:
-    - title: DPhil Student
-      institution: AIMS CDT, University of Oxford
-      year: 2024 - Present
-      description:
-        - DPhil on the fundamental properties of generative models and communication protocols for LLMs.
-        - Funded by a 250k USD studentship from Microsoft Research.
     - title: Predoctoral Research Fellow
       institution: University of Bologna
       year: 2023 - 2024
