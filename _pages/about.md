@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an MSc student and predoctoral research fellow at University of Bologna, working on adversarial robustness and the applications of optimization theory to ML. I'm also a member of the Institute of Superior Studies, UniBo's excellency school. From October 2024, I'll join Oxford University's AIMS CDT for a 4-year PhD on memory in LLMs, funded by Microsoft.
+I am a DPhil student at Oxford University's [AIMS CDT](https://aims.robots.ox.ac.uk/), working on theoretical properties of generative models and communication protocols for LLMs. My work is funded by Microsoft Research, to which I'm deeply grateful.
 
-My research interests include the role of autoregressivity in ML, as well as LLM interoperability and robustness.
+Before joining Oxford, I did a Bachelor's in Computer Science and a Master's in Artificial Intelligence at University of Bologna, as well as an Excellency Degree at the Institute of Superior Studies of Bologna.
 
 This site also hosts a selection of [my projects](/projects/), along with [some extra writings](/blog/).
