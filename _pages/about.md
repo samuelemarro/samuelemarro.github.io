@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow #<a href='#'>University of Bologna</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student #<a href='#'>University of Bologna</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Piazza Puntoni, 1B</p>
-    <p>40126 Bologna (Italy)</p>
+    <p>Trinity College, Broad Street</p>
+    <p>OX1 3BH Oxford (UK)</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
