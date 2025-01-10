@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil student at Oxford University's [AIMS CDT](https://aims.robots.ox.ac.uk/), working on theoretical properties of generative models and communication protocols for LLMs. My work is funded by Microsoft Research, to which I'm deeply grateful.
+I am a DPhil student at Oxford University's [AIMS CDT](https://aims.robots.ox.ac.uk/), working on theoretical properties of generative models and communication protocols for LLMs. My work is funded by Microsoft Ltd, to which I'm deeply grateful.
+
+I deeply care about building AI systems that are decentralized by design.
 
 Before joining Oxford, I did a Bachelor's in Computer Science and a Master's in Artificial Intelligence at University of Bologna, as well as an Excellency Degree at the Institute of Superior Studies of Bologna.
 
