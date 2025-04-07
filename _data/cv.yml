@@ -37,13 +37,13 @@
   type: time_table
   contents:
     - items:
-        - <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models. <i>Under review at ICML 2025</i>.
+        <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models. <i>Under review at ICML 2025</i>.
       year: 2025
     - items:
-        - Tobin South, Samuele Marro, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>Under review at ICML 2025</i>.
+        Tobin South, Samuele Marro, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>Under review at ICML 2025</i>.
       year: 2025
     - items:
-        - <b>Samuele Marro</b>, Davide Evangelista, Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge. Language Models Are Implicitly Continuous. <i>ICLR 2025</i>.
+        <b>Samuele Marro</b>, Davide Evangelista, Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge. Language Models Are Implicitly Continuous. <i>ICLR 2025</i>.
       year: 2025    
     - items:
         - <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>ICML 2023</i>
