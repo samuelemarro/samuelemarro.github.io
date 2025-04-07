@@ -48,6 +48,23 @@
     - items:
         - <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>ICML 2023</i>
       year: 2023
+
+- title: Talks
+  type: time_table
+  contents:
+    - items:
+        - "Agora: A Scalable Protocol for Decentralized Agent Communication. Presented at Microsoft Ltd (2024) and Camel AI (2025)."
+      year: 2025
+    - items:
+        - The Case for Decentralized Intelligence. Presented at the Oxford Maths Institute.
+      year: 2025
+    - items:
+        - Computational Asymmetries in Robust Classification. Leonardo Lesmo Award talk at AIxIA 2023.
+      year: 2023
+    - items:
+        - Practical Machine Learning. Presented at the University of Bologna.
+      year: 2023
+
 - title: Other Publications
   type: time_table
   contents:
