@@ -23,4 +23,4 @@ I deeply care about building AI systems that are decentralized by design.
 
 Before joining Oxford, I did a Bachelor's in Computer Science and a Master's in Artificial Intelligence at University of Bologna, as well as an Excellency Degree at the Institute of Superior Studies of Bologna.
 
-This site also hosts a selection of [my projects](/projects/), along with [some extra writings](/blog/).
+This site also hosts [some extra writings](/blog/).
