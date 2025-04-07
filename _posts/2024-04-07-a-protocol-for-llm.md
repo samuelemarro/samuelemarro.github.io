@@ -155,3 +155,5 @@ This pretty much covers the core of my idea for the communication protocol. Of c
 - Which hashing algorithm should be used?
 
 I hope to cover potential solutions to these challenges in the next posts. That said, if you have any opinions on the protocol, its strengths and its flaws, feel free to reach out! The more I think about LLM communication, the more it looks like building a proper ecosystem (protocols, software, know-how...) for networks of LLMs is something that will require the effort of an entire community. Fortunately, it looks like quite a lot of people seem to care about keeping Machine Learning decentralized.
+
+Edit: It turns out that there are indeed lots of people who care about decentralized AI! In the meantime, I and some other folks at Oxford refined this idea and made [Agora](https://agoraprotocol.org/). Check out the [paper](https://arxiv.org/abs/2410.11905) as well.
