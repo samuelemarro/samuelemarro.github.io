@@ -75,7 +75,7 @@ const price = JSON.parse(result).price
 await myDatabase.update({ 'MSFT' : price })
 ```
 
-This means that we don't need to use Alice to store the result in the database: we can rely on good ol' code, written by the LLM. Similarly, Bob can ask Alice to provide queries in a standard format, so that it can also use routines. So, the first communication might be something like:
+This means that we don't need to use Alice's LLM to store the result in the database: we can rely on good ol' code, written by the LLM. Similarly, Bob can ask Alice to provide queries in a standard format, so that it can also use routines. So, the first communication might be something like:
 
 ```
 Alice: I want to establish a protocol between us. I want to know the price of a stock.
