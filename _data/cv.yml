@@ -40,7 +40,7 @@
         <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models. <i>Under review at ICML 2025</i>.
       year: 2025
     - items:
-        Tobin South, Samuele Marro, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>Under review at ICML 2025</i>.
+        Tobin South, <b>Samuele Marro</b>, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>Under review at ICML 2025</i>.
       year: 2025
     - items:
         <b>Samuele Marro</b>, Davide Evangelista, Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge. Language Models Are Implicitly Continuous. <i>ICLR 2025</i>.
@@ -52,17 +52,21 @@
 - title: Talks
   type: time_table
   contents:
-    - items:
-        - "Agora: A Scalable Protocol for Decentralized Agent Communication. Presented at Microsoft Ltd (2024) and Camel AI (2025)."
+    - title: "Agora: A Scalable Protocol for Decentralized Agent Communication"
+      items:
+        - Presented at Microsoft Ltd (2024) and Camel AI (2025).
       year: 2025
-    - items:
-        - The Case for Decentralized Intelligence. Presented at the Oxford Maths Institute.
+    - title: The Case for Decentralized Intelligence
+      items:
+        - Presented at the Oxford Maths Institute.
       year: 2025
-    - items:
-        - Computational Asymmetries in Robust Classification. Leonardo Lesmo Award talk at AIxIA 2023.
+    - title: Computational Asymmetries in Robust Classification
+      items:
+        - Leonardo Lesmo Award talk at AIxIA 2023.
       year: 2023
+    - title: Practical Machine Learning
     - items:
-        - Practical Machine Learning. Presented at the University of Bologna.
+        - Presented at the University of Bologna Algo-UniBo organization.
       year: 2023
 
 - title: Other Publications
@@ -168,30 +172,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Adversarial Attacks
+    - title: Agent Communication and Collaboration
       # items: 
       #   - Description 1.
       #   - Description 2.
-    - title: Hyperparameter Tuning
+    - title: Decentralized AI
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: Smart Contract Security
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/samuelemarro/convergent-sequent-calculator">Convergent Sequent Calculator</a>
-      year: 2022 - Present
-      description: Python prover for sequent calculus
-    - title: <a href="https://github.com/zangGallery">zang</a>
-      year: 2021 - Present
-      description: On-chain text token platform
-    - title: <a href="https://github.com/samuelemarro/counter-attack">Counter-Attack</a>
-      year: 2018 - Present
-      description: A meta-adversarial defense that uses attacks as defenses
-    - title: <a href="https://github.com/mordecai-twitter">Mordecai</a>
-      year: 2021 - 2022
-      description: A data-driven Twitter client
+    - title: Multi-Agent Safety
 # - title: Other Interests
 #  type: list
 #   contents:
