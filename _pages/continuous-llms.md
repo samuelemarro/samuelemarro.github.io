@@ -6,6 +6,7 @@ nav: false
 ---
 
 
+
 # Language Models Are Implicitly Continuous
 
 Page for the ICLR 2025 paper "Language Models Are Implicitly Continuous"
