@@ -37,10 +37,10 @@
   type: time_table
   contents:
     - items:
-        <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models. <i>Under review at ICML 2025</i>.
+        <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models.
       year: 2025
     - items:
-        Tobin South, <b>Samuele Marro</b>, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>Under review at ICML 2025</i>.
+        Tobin South, <b>Samuele Marro</b>, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>ICML 2025</i>.
       year: 2025
     - items:
         <b>Samuele Marro</b>, Davide Evangelista, Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge. Language Models Are Implicitly Continuous. <i>ICLR 2025</i>.
@@ -49,47 +49,16 @@
         - <b>Samuele Marro</b>, Michele Lombardi. Computational Asymmetries in Robust Classification. <i>ICML 2023</i>
       year: 2023
 
-- title: Talks
+- title: Selected Experience
   type: time_table
   contents:
-    - title: "Agora: A Scalable Protocol for Decentralized Agent Communication"
-      items:
-        - Presented at Microsoft Ltd (2024) and Camel AI (2025).
-      year: 2025
-    - title: The Case for Decentralized Intelligence
-      items:
-        - Presented at the Oxford Maths Institute.
-      year: 2025
-    - title: Computational Asymmetries in Robust Classification
-      items:
-        - Leonardo Lesmo Award talk at AIxIA 2023.
-      year: 2023
-    - title: Practical Machine Learning
-    - items:
-        - Presented at the University of Bologna Algo-UniBo organization.
-      year: 2023
-
-- title: Other Publications
-  type: time_table
-  contents:
-    - items:
-        - Oliver Goldstein, Emanuele La Malfa, Felix Drinkall, <b>Samuele Marro</b>, Michael Wooldridge. Jailbreaking Large Language Models in Infinitely Many Ways
-    - items:
-        - Emanuele La Malfa, Christoph Weinhuber, Orazio Torre, Fangru Lin, <b>Samuele Marro</b>, Anthony Cohn, Nigel Shadbolt, Michael Wooldridge. <i>Under review at ICML 2025</i>.
-      year: 2024
-    - items:
-        - Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, Fabio Merizzi. Image Embedding for Denoising Generative Models. <i>Springer Artificial Intelligence Review.</i>
-      year: 2022
-    - items:
-        - <b>Samuele Marro</b>, Luca Donno. EIP-5375. <i>Ethereum Foundation</i>.
-      year: 2022
-    - items:
-        - '<b>Samuele Marro</b>, Luca Donno. Green NFTs: A Study on the Environmental Impact of Cryptoart Technologies. <a href="https://arxiv.org/abs/2202.00003" target="_blank">arxiv:2202.00003</a>'
-      year: 2021
-
-- title: Experience
-  type: time_table
-  contents:
+    - title: Head
+      institution: Institute for Decentralized AI
+      year: 2025 - Present
+      description:
+        - Research institute focused on security and infrastructure for decentralized and distributed AI systems.
+        - "Two main units: Oxford and Stanford."
+        - Funded by the AI Safety Fund and the Cosmos Institute
     - title: Predoctoral Research Fellow
       institution: University of Bologna
       year: 2023 - 2024
@@ -113,19 +82,86 @@
       description:
         - Taught the applied ML module of "Introduction to Machine Learning" for the Fall '22 semester.
         - Performed research on the latent space of <b>diffusion models</b> under prof. Andrea Asperti.
-    - title: Solidity Developer and Auditor
-      institution: Freelance
-      year: 2022 - Present
-      description:
-        - Performed Smart Contract audits, Web3 integrations and secure Smart Contract development.
-        - Specialized in EVM and EVM-like (e.g. Vite) security standards.
-    - title: Intern
+    - title: Research Intern
       institution: MindIt Srl + Kantar
       year: 2021 - 2022
       description:
         - Developed a <b>Tensorflow</b> LSTM implementation compatible with <b>IBM CPLEX</b> optimization algorithms.
         - Introduced tools to mitigate numerical issues with non-linear components of LSTMs.
         - Rewrote Facebook's FBProphet time series model in <b>Tensorflow</b>.
+
+- title: Selected Awards
+  type: time_table
+  contents:
+    - title: AI Safety Fund Grant, <i>450k USD</i>
+      items:
+        - Grant by the AI Safety Fund (joint <b>Google-OpenAI-Anthropic-Microsoft</b> fund) on the decentralized oversight of agent networks.
+      year: 2025
+    - title: Cosmos Institution Building Fellowship
+      items:
+        - Fellowship by the Cosmos Institute to build new institutions for decentralized AI.
+    - title: Microsoft Studentship, <i>250k USD</i>
+      items:
+        - Studentship for research into communication protocols between LLMs and multimodal memory in generative models.
+      year: 2024
+    - title: CINECA HPC Grant
+      items:
+        - Grant for the Galileo100 HPC cluster for research on the computational complexity of adversarial attacks.
+      year: 2021
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: Decentralized Oversight of Agent Networks
+      items:
+        - Presented at the ERA Technical AI Governance Forum.
+      year: 2025
+    - title: "Agora: A Scalable Protocol for Decentralized Agent Communication"
+      items:
+        - Presented at Microsoft Ltd (2024) and Camel AI (2025).
+      year: 2025
+    - title: The Case for Decentralized Intelligence
+      items:
+        - Presented at the Oxford Maths Institute.
+      year: 2025
+    - title: Computational Asymmetries in Robust Classification
+      items:
+        - Leonardo Lesmo Award talk at AIxIA 2023.
+      year: 2023
+    - title: Practical Machine Learning
+    - items:
+        - Presented at the University of Bologna Algo-UniBo organization.
+      year: 2023
+
+
+- title: Other Experience
+  type: time_table
+  contents:
+    - title: Solidity Developer and Auditor
+      institution: Freelance
+      year: 2022 - Present
+      description:
+        - Performed Smart Contract audits, Web3 integrations and secure Smart Contract development.
+        - Specialized in EVM and EVM-like (e.g. Vite) security standards.
+    - title: Tutor
+      institution: Liceo Scientifico L. Cocito, Alba (Italy)
+      year: 2019
+      description: Provided one-on-one and one-on-two tutorship for students struggling with Mathematics and Physics.
+    - title: Independent Research
+      year: 2017 - 2018
+      description:
+        - Extended <b>Grammatical Evolution</b>'s Backus-Naur Forms to support runtime checks and automatic correction of invalid production rules.
+        - Implemented this variant of Grammatical Evolution in <b>C#</b> and <b>Python</b>.
+    - title: Intern
+      institution: Sistemi Tre, Alba (Italy)
+      year: 2017
+      description:
+        - Automated database queries through the in-house software interface using <b>AHK</b>, leading to a 3-4x increase in data retrieval speed.
+        - Assisted IT staff during on-site technical support.
+
+- title: Other Awards
+  type: time_table
+  contents:
     - title: Gitcoin Round 13 Hackathon, <i>6k USD</i> bounty
       year: 2022
       description:
@@ -145,22 +181,6 @@
       description:
         - Trained in <b>Python</b> + <b>Tensorflow</b> a <b>CNN</b> to identify illegal dumping locations from aerial data.
         - Deployed the model as part of an Android app (written in <b>Java</b>) to capture aerial data and relay landfill locations in real time to a quadcopter.
-    - title: Tutor
-      institution: Liceo Scientifico L. Cocito, Alba (Italy)
-      year: 2019
-      description: Provided one-on-one and one-on-two tutorship for students struggling with Mathematics and Physics.
-    - title: Independent Research
-      year: 2017 - 2018
-      description:
-        - Extended <b>Grammatical Evolution</b>'s Backus-Naur Forms to support runtime checks and automatic correction of invalid production rules.
-        - Implemented this variant of Grammatical Evolution in <b>C#</b> and <b>Python</b>.
-    - title: Intern
-      institution: Sistemi Tre, Alba (Italy)
-      year: 2017
-      description:
-        - Automated database queries through the in-house software interface using <b>AHK</b>, leading to a 3-4x increase in data retrieval speed.
-        - Assisted IT staff during on-site technical support.
-    
 
 #- title: Open Source Projects
 #  type: time_table

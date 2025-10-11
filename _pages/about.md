@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil student at Oxford University's [AIMS CDT](https://aims.robots.ox.ac.uk/), working on agent communication and collaboration. My work is funded by Microsoft Ltd, to which I'm deeply grateful. I'm also the Chair of the [Lightweight Agent Standards Working Group](https://las-wg.org/).
+I am a DPhil student at Oxford University's [AIMS CDT](https://aims.robots.ox.ac.uk/), working on agent communication and collaboration. My work is funded by Microsoft Ltd, to which I'm deeply grateful. I'm also the Head of the [Institute for Decentralized AI (IDAI)](decentralized-ai.org) and the Chair of the [Lightweight Agent Standards Working Group](https://las-wg.org/).
 
 I deeply care about building AI systems that are decentralized by design.
 
