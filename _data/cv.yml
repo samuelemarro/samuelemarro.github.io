@@ -11,22 +11,22 @@
   contents:
     - title: DPhil in Autonomous Intelligent Machines and Systems
       institution: University of Oxford
-      year: 2024 - Now
+      year: 2024 - 2028
       description:
-        - DPhil on the fundamental properties of generative models and communication protocols for LLMs.
-        - Funded by a 250k USD studentship from Microsoft Research.
+        - 4-year DPhil at the Oxford AIMS CDT under Prof. Philip Torr on multi-agent LLMs.
+        - Funded by a 250k USD Microsoft studentship.
     - title: MSc Artificial Intelligence
       institution: University of Bologna
       year: 2022 - 2024
       description:
-        - "GPA: <b>29.73/30</b>, top of the class (170 students) Graduation grade: 110 <i>cum laude</i>."
+        - "GPA: <b>29.75/30</b>, top of the class (170 students). Graduation grade: 110 <i>cum laude</i>."
     - title: Excellency Degree
       institution: Superior College of Bologna (Institute of Superior Studies)
       year: 2019 - 2024
       description:
         - 7 STEM students are admitted each year and are provided with a personal tutor, exemption from tuition fees, free accommodation and an annual scholarship throughout their Bachelor's and Master's degrees.
         - "Yearly requirements: 28/30 GPA, no grade lower than 24/30, must take 6 additional excellency courses."
-        - "GPA: <b>29.75/30</b>"
+        - "GPA: <b>29.88/30</b>"
     - title: BSc Computer Science
       institution: University of Bologna
       year: 2019 - 2022
@@ -37,10 +37,16 @@
   type: time_table
   contents:
     - items:
+        <b>Samuele Marro</b>, Jialin Yu, Emanuele La Malfa, et al., Benchmarking at the Edge of Comprehension. <i>ICML 2026 Oral</i>.
+      year: 2026
+    - items:
+        Emanuele La Malfa, Gabriele La Malfa, <b>Samuele Marro</b>, et al., Large Language Models Miss the Multi-Agent Mark. <i>NeurIPS 2025 Oral</i>.
+      year: 2025
+    - items:
         <b>Samuele Marro</b>, Emanuele La Malfa, Jesse Wright, Guohao Li, Nigel Shadbolt, Michael Wooldridge, Philip Torr, A Scalable Communication Protocol for Networks of Large Language Models.
       year: 2025
     - items:
-        Tobin South, <b>Samuele Marro</b>, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>ICML 2025</i>.
+        Tobin South, <b>Samuele Marro</b>, Thomas Hardjono, Robert Mahari, Cedric Deslandes Whitney, Dazza Greenwood, Alan Chan, Alex Pentland, Authenticated Delegation and Authorized AI Agents. <i>ICML 2025 Oral</i>.
       year: 2025
     - items:
         <b>Samuele Marro</b>, Davide Evangelista, Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge. Language Models Are Implicitly Continuous. <i>ICLR 2025</i>.
@@ -58,7 +64,19 @@
       description:
         - Research institute focused on security and infrastructure for decentralized and distributed AI systems.
         - "Two main units: Oxford and Stanford."
-        - Funded by the AI Safety Fund and the Cosmos Institute
+        - Funded by a 500k USD grant jointly funded by Google, Anthropic, Microsoft, and OpenAI.
+    - title: PhD Research Intern
+      institution: Microsoft
+      year: 2026
+      description:
+        - PhD internship in Microsoft's Agents Team of the Applied Sciences Group.
+        - Main focus on developing efficient local agents.
+    - title: Fellow
+      institution: Cosmos Institute
+      year: 2025 - Present
+      description:
+        - Research fellow on the intersection of AI, philosophy, and decentralization.
+        - Building stable non-governmental institutions to steer AI towards a less authoritarian future.
     - title: Predoctoral Research Fellow
       institution: University of Bologna
       year: 2023 - 2024
@@ -78,7 +96,7 @@
         - Obtained a 170k core-hour grant for the CINECA <b>supercomputer cluster</b>.
     - title: Teaching Assistant
       institution: University of Bologna
-      year: 2022 - Present
+      year: 2022 - 2023
       description:
         - Taught the applied ML module of "Introduction to Machine Learning" for the Fall '22 semester.
         - Performed research on the latent space of <b>diffusion models</b> under prof. Andrea Asperti.
@@ -88,18 +106,19 @@
       description:
         - Developed a <b>Tensorflow</b> LSTM implementation compatible with <b>IBM CPLEX</b> optimization algorithms.
         - Introduced tools to mitigate numerical issues with non-linear components of LSTMs.
-        - Rewrote Facebook's FBProphet time series model in <b>Tensorflow</b>.
+        - Rewrote Meta's FBProphet time series model in <b>Tensorflow</b>.
 
 - title: Selected Awards
   type: time_table
   contents:
-    - title: AI Safety Fund Grant, <i>450k USD</i>
+    - title: AI Safety Fund Grant, <i>500k USD</i>
       items:
-        - Grant by the AI Safety Fund (joint <b>Google-OpenAI-Anthropic-Microsoft</b> fund) on the decentralized oversight of agent networks.
+        - Grant by the AI Safety Fund, jointly funded by <b>Google, Anthropic, Microsoft, and OpenAI</b>, on decentralized oversight of agent networks.
       year: 2025
     - title: Cosmos Institution Building Fellowship
       items:
         - Fellowship by the Cosmos Institute to build new institutions for decentralized AI.
+      year: 2025
     - title: Microsoft Studentship, <i>250k USD</i>
       items:
         - Studentship for research into communication protocols between LLMs and multimodal memory in generative models.
@@ -108,6 +127,19 @@
       items:
         - Grant for the Galileo100 HPC cluster for research on the computational complexity of adversarial attacks.
       year: 2021
+
+- title: Other Publications
+  type: time_table
+  contents:
+    - items:
+        <b>Samuele Marro</b>, Alan Chan, Xinxing Ren, et al., Permission Manifests for Web Agents. Under review at <i>FAccT 2026</i>.
+      year: 2026
+    - items:
+        X Angelo Huang, Emanuele La Malfa, <b>Samuele Marro</b>, et al., A notion of complexity for theory of mind via discrete world models. <i>EMNLP 2024</i>.
+      year: 2024
+    - items:
+        Andrea Asperti, Davide Evangelista, <b>Samuele Marro</b>, et al., Image embedding for denoising generative models. <i>Artificial Intelligence Review</i>.
+      year: 2023
 
 - title: Talks
   type: time_table
@@ -162,6 +194,15 @@
 - title: Other Awards
   type: time_table
   contents:
+    - title: ARIA Exploration Grant, <i>20k GBP</i>
+      year: 2025
+      description:
+        - Exploratory grant on automated protocol design as a path to full cybersecurity resilience.
+        - Part of the "Trust Everything Everywhere" research area.
+    - title: AIxIA "Leonardo Lesmo" Award
+      year: 2023
+      description:
+        - Award for the best MSc thesis in AI in Italy, granted by the Italian Association for Artificial Intelligence.
     - title: Gitcoin Round 13 Hackathon, <i>6k USD</i> bounty
       year: 2022
       description:
@@ -181,6 +222,31 @@
       description:
         - Trained in <b>Python</b> + <b>Tensorflow</b> a <b>CNN</b> to identify illegal dumping locations from aerial data.
         - Deployed the model as part of an Android app (written in <b>Java</b>) to capture aerial data and relay landfill locations in real time to a quadcopter.
+
+- title: Affiliations
+  type: time_table
+  contents:
+    - title: Mentor
+      institution: Cambridge ERA Fellowship
+      year: 2026 - Present
+      description:
+        - Mentoring fellows on applications of multi-agent security techniques to AI safety.
+    - title: Chair
+      institution: Lightweight Agent Standards Working Group
+      year: 2025 - Present
+      description:
+        - Industry-academia joint working group focused on standards for agent interactions.
+        - "Notable organizations: Oxford University, Stanford University, MIT, Firecrawl."
+    - title: Head
+      institution: Computer Science Student Commission, Superior College of Bologna (ISS)
+      year: 2023 - 2025
+      description:
+        - Supervised CS student projects and advised students on CS and ML-related research directions.
+    - title: Representative
+      institution: CS Department, University of Bologna
+      year: 2022 - 2025
+      description:
+        - Managed student-department relations and represented student interests in department meetings.
 
 #- title: Open Source Projects
 #  type: time_table
