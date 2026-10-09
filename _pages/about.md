@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student #<a href='#'>University of Bologna</a>. Address. Contacts. Moto. Etc.
+subtitle: Head, Institute for Decentralized AI #<a href='#'>University of Bologna</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
